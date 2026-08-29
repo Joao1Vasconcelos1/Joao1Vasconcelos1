@@ -20,7 +20,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ---
 
 ## 📫 Como me encontrar
-E-mail: joao.gustavo.oliveira.vasconcelos@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&
+logo=gmail&logoColor=white)](joao.gustavo.oliveira.vasconcelos@gmail.com)
 
 ---
 
