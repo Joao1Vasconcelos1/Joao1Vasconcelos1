@@ -19,4 +19,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 
+## Como me encontrar
+joao.gustavo.oliveira.vasconcelos@gmail.com
+
+---
+
 *“Sempre aprendendo e evoluindo como desenvolvedor.”*
