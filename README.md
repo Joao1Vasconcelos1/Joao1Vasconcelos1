@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou João
-💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e SQL |
 Preparando-se para o mercado de tecnologia**
 ---
 ## 🚀 Sobre mim
